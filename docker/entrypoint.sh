@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
 # switch to more secure file umask before everything else...
 umask 0027
